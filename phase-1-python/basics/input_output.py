@@ -1,4 +1,7 @@
 name = input("Enter your name: ")
-age = input("Enter your age: ")
+age = int(input("Enter your age: "))
+print("   ")
+print("   ")
 print("Hello",name)
 print("You are",age,"years old")
+print("After one year you are",age+1,"and move into teen phase you are a bit big girl but still fathers choti s Beti")
