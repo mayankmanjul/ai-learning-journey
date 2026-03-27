@@ -6,3 +6,4 @@ print(Full_name)
 print(Full_name.upper())
 print(Full_name.lower())
 print(len(Full_name))
+
